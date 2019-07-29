@@ -1,0 +1,5 @@
+Add the Sensor IDs and Type for  all Sensors that are on the Network.
+Sensor Ids must be 6 digits long.
+ID     Type
+111001 RandomSensor
+111002 TemperatureSensor

@@ -1,0 +1,2 @@
+This is the configuration file for the Temperature Sensor ID : 111002
+1
